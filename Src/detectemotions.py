@@ -6,7 +6,6 @@ class EmotionDetector:
 
     def analyze_frame(self, frame):
         try:
-            # enforce_detection=False evita que el script falle si no ve una cara
             result = DeepFace.analyze(frame, actions=self.actions, enforce_detection=False)
             return result[0]['dominant_emotion']
         except Exception as e:
