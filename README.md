@@ -63,7 +63,3 @@ Abre tu navegador en `http://127.0.0.1:8000`.
 ### 📄 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la **Licencia MIT**.
-
-### 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la **Licencia MIT**.
